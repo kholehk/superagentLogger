@@ -1,0 +1,12 @@
+{
+  "name": "superagent",
+  "version": "1.0.0",
+  "description": "superagnet with logger",
+  "main": "index.js",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/superagent": "^4.1.13"
+  }
+}
